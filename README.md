@@ -1,7 +1,10 @@
 # MADRL-Based-Multi-Task-Partial-Computation-Offloading-in-MEC
 Open source code for paper: Multi-Agent Deep Reinforcement Learning Based Multi-Task Partial Computation Offloading in Mobile Edge Computing.
 
-## Create environment
+## Integrated Development Environment (IDE)
+Spyder 5.4.2 (conda)
+
+## Create Environment
 ### The first method
 ``` Bash
 conda create -n env_name python=3.9.16
