@@ -13,9 +13,6 @@ if __name__ == '__main__':
         
         ctr.train()
     else:
-        '''
-        if eval_mode = "mappo" or "maddpg", open the switch (load_weights = True)
-        '''
         print("---------- evaluation mode: " + gen_params.eval_mode + " ----------")
         time.sleep(2)
         
